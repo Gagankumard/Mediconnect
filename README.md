@@ -7,4 +7,11 @@
 <h2>Login Page</h2>
 
 
-![image](https://github.com/user-attachments/assets/0f4b028d-2cef-4837-9eb0-1970e94bf673)
+![image](https://github.com/user-attachments/assets/753624aa-5630-4b89-b76f-742fe7909d51)
+
+
+
+
+<h2>SignUp Page</h2>
+
+![image](https://github.com/user-attachments/assets/6eaa1757-eb01-440e-b03f-bc4668edcb56)
