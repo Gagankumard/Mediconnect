@@ -6,12 +6,10 @@
 
 <h2>Login Page</h2>
 
-
-![image](https://github.com/user-attachments/assets/753624aa-5630-4b89-b76f-742fe7909d51)
-
-
+![image](https://github.com/user-attachments/assets/fe383ee3-4ca6-4026-9e8d-797db23eadf0)
 
 
 <h2>SignUp Page</h2>
 
-![image](https://github.com/user-attachments/assets/6eaa1757-eb01-440e-b03f-bc4668edcb56)
+![image](https://github.com/user-attachments/assets/4a5d7ad6-8937-4fd8-a389-43f3b8eb1e83)
+
