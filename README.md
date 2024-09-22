@@ -13,3 +13,18 @@
 
 ![image](https://github.com/user-attachments/assets/4a5d7ad6-8937-4fd8-a389-43f3b8eb1e83)
 
+
+<h2>User Profile</h2>
+
+![image](https://github.com/user-attachments/assets/484b52dc-107a-46fc-ad58-5075923ad13b)
+
+<h2>Docter Profile</h2>
+
+![image](https://github.com/user-attachments/assets/46193bc7-a41c-42ab-8d40-3ed096c71635)
+
+
+
+<h2>Chat Bot</h2>
+
+![image](https://github.com/user-attachments/assets/6777868a-ce54-4072-aa66-f2de8c1031b8)
+
