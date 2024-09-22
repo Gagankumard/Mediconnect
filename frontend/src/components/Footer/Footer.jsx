@@ -5,18 +5,14 @@ import {RiLinkedinFill} from 'react-icons/ri'
 import { AiFillGithub, AiFillInstagram } from 'react-icons/ai'
 
 const socialLinks = [
-{
-path:
-"https://github.com/AMOGHPROMODPHATARPEKAR",
-icon:
-<AiFillGithub className="group-hover: text-white w-4 h-5"/>
-},
-{
-path:
-"https://www.linkedin.com/in/amogh-phaterpekar-a36082238/",
-icon:
-<RiLinkedinFill className="group-hover: text-white w-4 h-5"/>
-},
+  {
+    path: "https://github.com/Gagankumard",
+    icon: <AiFillGithub className="group-hover: text-white w-4 h-5" />,
+  },
+  {
+    path: "https://www.linkedin.com/in/gagan-kumar-b31208265/",
+    icon: <RiLinkedinFill className="group-hover: text-white w-4 h-5" />,
+  },
 ];
 
 const quickLinks01 =[
@@ -73,7 +69,7 @@ const Footer = () => {
         <div className=' flex justify-between flex-col md:flex-row flex-wrap gap-4'>
           <div>
             <img src={logo} alt="" />
-            <p className=' text-[16px] leading-7 font-[300] '>CopyRight &copy; {year} developed by Amogh p  all rigts reserved </p>
+            <p className=' text-[16px] leading-7 font-[300] '>CopyRight &copy; {year} developed by Gagan Kumar  all rigts reserved </p>
 
           <div className='flex  items-center mt-4 gap-3'>
             {socialLinks.map((link,index)=>(
